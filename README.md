@@ -3,6 +3,4 @@ hello-world
 
 Just trying out how to use Github
 
-What?
-What?
-What?
+This is a repository for figuring how github works
